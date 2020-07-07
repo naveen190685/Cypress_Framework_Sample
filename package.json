@@ -1,0 +1,15 @@
+{
+  "name": "feedautomation",
+  "version": "1.0.0",
+  "description": "Trying cypress automation for furbaby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naveen",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.7.0",
+    "mochawesome": "^6.1.1"
+  }
+}
